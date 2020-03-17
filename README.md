@@ -1,2 +1,5 @@
 # VisualStudioSortUsings
-Visual Studio Addon to sirt those untidy using declarations ... so annoying
+Visual Studio Addon to sort those untidy using declarations ... so annoying
+
+
+
